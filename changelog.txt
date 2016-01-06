@@ -1,2 +1,3 @@
 v0.1 - rough sketchup (starting with the left)
 v0.2 - finalized DIN plate's dimensions (move positive from the origin)
+v0.3 - full prototype of arm/hand for printing
